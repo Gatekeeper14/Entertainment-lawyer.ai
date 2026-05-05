@@ -1,0 +1,16 @@
+body {
+  background: #050505;
+  color: white;
+  font-family: Arial;
+}
+
+.hero {
+  text-align: center;
+  margin-top: 100px;
+}
+
+button {
+  padding: 10px;
+  background: #00ffc8;
+  border: none;
+}
